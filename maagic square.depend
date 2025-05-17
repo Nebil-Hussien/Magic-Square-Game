@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549018652 source:c:\users\neba\documents\sad\maagic square\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
